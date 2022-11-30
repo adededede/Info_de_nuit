@@ -1,5 +1,36 @@
 .menu {
-    width: 5%;
-    height: 100%;
+    position: absolute;
+    margin-top: 5vh;
+    width: 5vh;
+    height: calc(100% - 5vh);
+    writing-mode: sideways-rl;
+    text-align: center;
     background-color: red;
+}
+
+.header {
+    position: absolute;
+    width: 100vh;
+    height: 5vh;
+    background-color: green;
+}
+
+.footer {
+    width: 100vh;
+    height: 5vh;
+    background-color: palevioletred;
+}
+
+.view {
+    padding-top: 7vh;
+    padding-left: 7vh;
+    width: 95%;
+    height: 100%;
+    min-height: 95vh;
+}
+
+body {
+    margin: 0px;
+    height: 100%;
+    width: 100%;
 }
