@@ -1,0 +1,47 @@
+.menu {
+    position: absolute;
+    margin-top: 10vh;
+    width: 5vh;
+    height: calc(100% - 5vh);
+    writing-mode: sideways-rl;
+    text-align: center;
+    background-color: red;
+}
+
+
+.header {
+    width: 75%;
+    margin-top: 20px;
+    line-height: 3;
+    background: rgb(182, 44, 44) no-repeat;
+    color: #fff;
+    padding: 10px 50px;
+    margin-bottom: 1.5em;
+    -moz-border-radius: 30px;
+    -webkit-border-radius: 30px;
+    border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;      
+}
+
+.footer {
+    width: 100vh;
+    height: 5vh;
+    background-color: palevioletred;
+}
+
+.view {
+    padding-top: 10vh;
+    padding-left: 10vh;
+    width: 95%;
+    height: 100%;
+    min-height: 95vh;
+    border: solid 10px;
+    border-radius: 7vh 40px 40px 10px;
+}
+
+body {
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+}
+
