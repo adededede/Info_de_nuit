@@ -26,7 +26,7 @@ function gameLoop(timeStamp) {
     // Calculate fps
     g_ctx.fps = Math.round(1 / g_ctx.secondsPassed);
     // change text of fps indicator
-    g_ctx.fpsIndicator.textContent = "FPS : " + g_ctx.fps
+    //g_ctx.fpsIndicator.textContent = "FPS : " + g_ctx.fps
 
     if (g_ctx.new_anim_cpt >= 8) {
         g_ctx.new_anim_cpt = 0
@@ -73,16 +73,7 @@ function draw_home_screen() {
 function home_screen_buttons() {
     let spacing = 15
     g_ctx.home_screen_buttons = [
-        new Button(50, (1*spacing)   ,"").setLabel(new Label(30, 15, "level 1")),
-        new Button(50, (2*spacing)+10*2,"").setLabel(new Label(30, 15, "level 2")),
-        new Button(50, (3*spacing)+20*2,"").setLabel(new Label(30, 15, "level 3")),
-        new Button(50, (4*spacing)+30*2,"").setLabel(new Label(30, 15, "level 4")),
-        new Button(50, (5*spacing)+40*2,"").setLabel(new Label(30, 15, "level 5")),
-        new Button(50, (6*spacing)+50*2,"").setLabel(new Label(30, 15, "level 6")),
-        new Button(50, (7*spacing)+60*2,"").setLabel(new Label(30, 15, "level 7")),
-        new Button(50, (8*spacing)+70*2,"").setLabel(new Label(30, 15, "level 8")),
-        new Button(50, (9*spacing)+80*2,"").setLabel(new Label(30, 15, "level 9")),
-        new Button(50, (10*spacing)+90*2,"").setLabel(new Label(30, 15, "level 10")),
+        new Button(50, (1*spacing)   ,"").setLabel(new Label(30, 15, "niveau 1")),
         
         new Button(370, (7*spacing)+0*2,"").setLabel(new Label(30, 15, "Editeur")),
         new Button(370, (7*spacing)+20*2,"").setLabel(new Label(30, 15, "Jouer")),
@@ -150,6 +141,7 @@ function init(){
 
     home_screen_buttons()
     draw_home_screen()
+
 
     // Start the first frame request
     window.requestAnimationFrame(gameLoop)

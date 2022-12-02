@@ -29,6 +29,11 @@ function check() {
 
         document.getElementById('button_next').style.display = "flex"
     }
+
+    if ( g_ctx.health <= 0 ) {
+        document.getElementById('lost').style.display = "block"
+        g_ctx.stop_game = true
+    }
 }
 
 

@@ -5,7 +5,7 @@ import { intersect } from "../other/intersectFunctions.js";
 
 class PlatformerGameScreen {
     constructor(){
-        this.back_ground_need_update = false
+        this.back_ground_need_update = true
     }
 
     draw() {
@@ -19,6 +19,11 @@ class PlatformerGameScreen {
         if( !(g_ctx.level_as_been_drawed) || this.back_ground_need_update){
             g_ctx.player.draw_hitboxes = false
             g_ctx.context_background.clearRect(0,0,800, 800)
+
+            // drawing background image
+            let bg = new Image()
+            bg.src = './assets/decor/skyBG.png'
+            g_ctx.context_background.drawImage(bg, 0, 0, 900, 900)
             
             //draw back layer
             levels[g_ctx.current_level].back_layer.objects.forEach(el => {

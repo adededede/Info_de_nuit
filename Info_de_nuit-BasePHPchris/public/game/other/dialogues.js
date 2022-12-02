@@ -29,7 +29,7 @@ const dialogues = [
     {"NumDialogue": 4,
     "tableau dialogue":["Sasha  et Lou se sont connus sur une appli de rencontre et vont bientôt avoir leur premier rapport.  Mais Sasha a une confession à faire a Lou .",
     "Sasha: 'Panique pas hein ? Je suis séropositif mais je prend un traitement .'",
-    "Quoi mais si tu saigne de la bouche en me roulant une giga pelle tu va me le refiler c’est sûr"
+    "Lou : Quoi mais si tu saigne de la bouche en me roulant une giga pelle tu va me le refiler c’est sûr"
     ]
     
     },
