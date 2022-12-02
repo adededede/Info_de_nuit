@@ -25,7 +25,7 @@ La documentation et les informations que vous trouverez sur le site provienne to
 
 | Codage du jeu en js| Recherches autour de la santé sexuelle | Codage CSS | Codage Architecture | Codage PHP & HTML | Documentations |
 | --------- | ----------- | ---------- | ---------- | ---------- | ---------- |
-| Chris Verschelden | Arnaud Grondin, Lucile Hery & Antoine Levanen | Lucile Hery, Antoine Levanen & Adélie Tricard |  Chris Verschelden | Adélie Tricard, Lucile Hery, Antoine Levanen & Arnaud Grondin | Adélie Tricard |
+| Chris Verschelden | Arnaud Grondin, Lucile Hery & Antoine Levanen | Lucile Hery, Antoine Levanen & Adélie Tricard |  Chris Verschelden | Adélie Tricard, Lucile Hery, Antoine Levanen & Arnaud Grondin | Adélie Tricard, Antoine Levanen & Lucile Hery |
 
 ## Les éventuelles questions 
 
