@@ -4,7 +4,7 @@ Notre mission lors de cette nuit de l'info était de développer un serious game
 En prenans connaissance du sujet nous avons réalisé que plus que de simplement parler des différentes IST et MST, nous voulions aborder un sujet qui nous semble primordiale : le consentement. Sujet qui est d'ailleurs au coeur de l'actualité, et qui paraît être peu ou pas compris. C'est pourquoi nous avons intégré à notre projet des aspect moraux en plus de ceux concernant la santé physique.
 #Notre site
 Notre site est constitué :
-- d'un [acceuil]([https://github.com/adededede/Info_de_nuit/tree/main/images/acceuil](https://github.com/adededede/Info_de_nuit/blob/main/images/acceuil.png)), permettant de lancer le jeu ou bien de s'informer.
+- d'un [acceuil](https://github.com/adededede/Info_de_nuit/blob/main/images/acceuil.png), permettant de lancer le jeu ou bien de s'informer.
 - d'une [section information](https://github.com/adededede/Info_de_nuit/tree/main/images/info.png), permettant de prendre connaissance des différents aspects qui composent la santé sexuelle.
 - d'une [section témoignages](https://github.com/adededede/Info_de_nuit/tree/main/images/temoignage.png)
 - d'une [section actualités](https://github.com/adededede/Info_de_nuit/tree/main/images/actu.png), qui reste encore à implementer mais qui devrait dans le future contenir les actualités dans le domaine.
