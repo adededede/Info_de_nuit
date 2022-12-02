@@ -21,7 +21,7 @@ Si vous souhaitez en savoir plus sur notre travail, nos réflexions ou que vous 
 
 - Adélie Tricard : tricardadelie@gmail.com
 
-- Antoine Levanen : 
+- Antoine Levanen : antoinelevanen@gmail.com
 
 - Arnaud Grondin : 
     

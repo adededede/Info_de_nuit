@@ -6,7 +6,7 @@ require './app/views/layout/menu.php';
     <?php
 
     echo '<center>';
-    echo '<h1>Mettre les contacts des asso et aures</h1>';
+    echo '<h1>Mettre les contacts des asso et autres</h1>';
     echo '</center>';
 
     ?>
