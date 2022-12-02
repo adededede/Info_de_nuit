@@ -23,10 +23,9 @@ La documentation et les informations que vous trouverez sur le site provienne to
 ## Répartition du travail
 
 
-| Codage du jeu en js| Recherches autour de la santé sexuelle | Codage CSS | Codage Architecture | Codage PHP & HTML | Documentations
-| --------- | ----------- | ---------- | ---------- | ---------- |
+| Codage du jeu en js| Recherches autour de la santé sexuelle | Codage CSS | Codage Architecture | Codage PHP & HTML | Documentations |
+| --------- | ----------- | ---------- | ---------- | ---------- | ---------- |
 | Chris Verschelden | Arnaud Grondin, Lucile Hery & Antoine Levanen | Lucile Hery, Antoine Levanen & Adélie Tricard |  Chris Verschelden | Adélie Tricard, Lucile Hery, Antoine Levanen & Arnaud Grondin | Adélie Tricard |
-| A screen with results of the research, where you can see all the playlist the app made based on the sentence | A button to share the playlist to friends | 
 
 ## Les éventuelles questions 
 
