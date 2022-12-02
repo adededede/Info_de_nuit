@@ -46,7 +46,7 @@ class PlatformerGameScreen {
             let spawn = levels[g_ctx.current_level].spawn
             g_ctx.context_background.fillStyle = "red"
             let spawn_indicator = new Circle(spawn.x, spawn.y, 10).setLabel(new Label(-15, -13, "spawn")).setDrawingMode("fill")
-            spawn_indicator.draw(g_ctx.context_background)
+            //spawn_indicator.draw(g_ctx.context_background)
             g_ctx.context_background.fillStyle = "black"
             g_ctx.player.setX(spawn.x).setY(spawn.y)
 
@@ -54,7 +54,7 @@ class PlatformerGameScreen {
             let exit = levels[g_ctx.current_level].exit
             g_ctx.context_background.fillStyle = "blue"
             let exit_indicator = new Circle(exit.x, exit.y, 10).setLabel(new Label(-15, -13, "exit")).setDrawingMode("fill")
-            exit_indicator.draw(g_ctx.context_background)
+            //exit_indicator.draw(g_ctx.context_background)
             g_ctx.context_background.fillStyle = "black"
 
             g_ctx.current_pnj = new PNJ(exit.x,exit.y)

@@ -12,6 +12,13 @@ document.getElementById('button_next').addEventListener("click",event => show_po
 function check() {
     if (g_ctx.start_pnj_dialogue) {
 
+        if ( g_ctx.current_level >= 4) {
+            document.getElementById('success').style.display = "block"
+            g_ctx.stop_game = true
+            document.getElementById('success').innerText += g_ctx.question_points + " points !"
+            return
+        }
+
         g_ctx.start_pnj_dialogue = false
         g_ctx.stop_game = true
         g_ctx.player.setVX(0).setVY(0)
@@ -35,11 +42,7 @@ function check() {
         g_ctx.stop_game = true
     }
 
-    if ( g_ctx.current_level === 5 ) {
-        document.getElementById('success').style.display = "block"
-        g_ctx.stop_game = true
-        document.getElementById('success').innerText += g_ctx.question_points + " points !"
-    }
+    
 }
 
 

@@ -5,6 +5,7 @@ body {
 
 #tools_div {
     position: absolute;
+    display: none;
     margin-top: 820px;
     margin-left: 10px;
     transition: margin .2s ease-in-out;
