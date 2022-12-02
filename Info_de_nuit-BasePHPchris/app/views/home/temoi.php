@@ -1,20 +1,13 @@
-
-<?php 
-    require '../app/views/layout/header.php'; 
-    require '../app/views/layout/menu.php';
+<?php
+require '../app/views/layout/menu.php';
 ?>
 <div class='view'>
+
     <?php
-        echo'temoignage';
 
-
-    
-
-        
-
+    echo '<center>';
+    echo '<h1>Voici les témoignages</h1>';
+    echo '</center>';
     ?>
-</div>
 
-<?php 
-    require '../app/views/layout/footer.php';
-?>
+</div>

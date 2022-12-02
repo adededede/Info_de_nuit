@@ -5,7 +5,7 @@ require '../app/views/layout/menu.php';
     <?php
 
     echo '<center>';
-    echo '<h1>Les informations importantes</h1>';
+    echo '<h1>Actualités à venir...</h1>';
     echo '</center>';
 
     ?>
