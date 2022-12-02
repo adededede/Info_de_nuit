@@ -12,7 +12,7 @@ require './app/views/layout/menu.php';
 
     ?>
 
-    <h4>Une relation devient malsaine quand une des deux personnes concernées ne respecte pas l’autre et tend à établir un rapport de force.</h4>
+    <h5>Une relation devient malsaine quand une des deux personnes concernées ne respecte pas l’autre et tend à établir un rapport de force.</h5>
     <p>Plusieurs signes, en apparence banals lorsqu’ils sont pris isolément, peuvent aider à identifier une relation malsaine ou en voie de le devenir :</p>
     <ul>
         <li>personnalité contrôlante</li>
@@ -40,7 +40,7 @@ require './app/views/layout/menu.php';
         <li>isolement (moins de contacts avec les amis et la famille)</li>
         <li>pression (boire de l’alcool, prendre de la drogue, avoir des rapports sexuels, etc.)</li>
     </ul>
-    <h4>Peut-on changer la dynamique d’une relation?</h4>
+    <h5>Peut-on changer la dynamique d’une relation?</h5>
     <p>Une relation malsaine qui n’est pas identifiée ou stoppée à temps risque de mener à des épisodes de violence (psychologique, verbale, économique, physique, sexuelle) répétés qui pourraient s’aggraver. On peut penser à des situations de harcèlement au travail, d’intimidation à l’école, de violence conjugale, de maltraitance envers une personne aînée ou un enfant, etc. </p>
     <p>Il est même possible que les épisodes de violence s’intensifient au point de mener à l’homicide. Il est donc important d’ouvrir l’œil et de rester attentif aux signes de violence : agir rapidement peut changer le cours des choses. </p>
     <p>Parfois, lorsqu’on agit assez tôt et expressément pour briser la dynamique malsaine dans la relation, il est possible de rebâtir une relation saine sur de nouvelles bases ou de pouvoir sortir de cette relation plus facilement. </p>

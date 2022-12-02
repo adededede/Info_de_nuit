@@ -12,9 +12,9 @@ require './app/views/layout/menu.php';
 
     ?>
 
-    <h4>
+    <h5>
         Le respect va de pair avec le consentement :
-    </h4>
+    </h5>
     <p>lorsqu’on respecte l’autre, on lui demande son avis et on en tient compte.
 
         Donner son consentement revient à donner sa permission pour faire quelque chose. On peut consentir à vendre une propriété, à donner sa main en mariage, à avoir un rapport sexuel avec quelqu’un, etc. Il est toutefois fondamental que ce soit la personne elle-même qui donne son consentement, sans quoi l’accord ne sera pas valable.
