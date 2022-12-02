@@ -75,7 +75,7 @@ function home_screen_buttons() {
     g_ctx.home_screen_buttons = [
         new Button(50, (1*spacing)   ,"").setLabel(new Label(30, 15, "niveau 1")),
         
-        new Button(370, (7*spacing)+0*2,"").setLabel(new Label(30, 15, "Editeur")),
+        //new Button(370, (7*spacing)+0*2,"").setLabel(new Label(30, 15, "Editeur")),
         new Button(370, (7*spacing)+20*2,"").setLabel(new Label(30, 15, "Jouer")),
     ]
 }

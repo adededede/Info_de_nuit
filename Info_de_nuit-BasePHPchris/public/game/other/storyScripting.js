@@ -34,6 +34,12 @@ function check() {
         document.getElementById('lost').style.display = "block"
         g_ctx.stop_game = true
     }
+
+    if ( g_ctx.current_level === 5 ) {
+        document.getElementById('success').style.display = "block"
+        g_ctx.stop_game = true
+        document.getElementById('success').innerText += g_ctx.question_points + " points !"
+    }
 }
 
 

@@ -21,9 +21,9 @@ class PlatformerGameScreen {
             g_ctx.context_background.clearRect(0,0,800, 800)
 
             // drawing background image
-            let bg = new Image()
-            bg.src = './assets/decor/skyBG.png'
-            g_ctx.context_background.drawImage(bg, 0, 0, 900, 900)
+            // let bg = new Image()
+            // bg.src = './assets/decor/skyBG.png'
+            // g_ctx.context_background.drawImage(bg, 0, 0, 900, 900)
             
             //draw back layer
             levels[g_ctx.current_level].back_layer.objects.forEach(el => {
@@ -32,6 +32,7 @@ class PlatformerGameScreen {
                 tmp_tile.style.transform = el.transform
                 g_ctx.context_background.drawImage(tmp_tile, el.clipX, el.clipY, el.size, el.size, el.x, el.y, el.size, el.size)
             });
+            
 
             //draw middle layer
             levels[g_ctx.current_level].middle_layer.objects.forEach(el => {

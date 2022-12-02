@@ -343,10 +343,10 @@ class PNJ extends GameObject {
         this.hitbox = new Rectangle(this.x - 10, this.y - 56, 60, 56)
 
         this.idle_animation_right = new Image()
-        this.idle_animation_right.src = "assets/sprites/"+name+"/right_facing/GraveRobber_idle.png"
+        this.idle_animation_right.src = "./assets/sprites/grave_robber/right_facing/GraveRobber_idle.png"
 
         this.idle_animation_left = new Image()
-        this.idle_animation_left.src = "assets/sprites/"+name+"/left_facing/GraveRobber_idle.png"
+        this.idle_animation_left.src = "./assets/sprites/grave_robber/left_facing/GraveRobber_idle.png"
         
         this.idle_counter = 0
         this.frame = 48
@@ -355,14 +355,7 @@ class PNJ extends GameObject {
         this.draw_hitboxes = false
     }
 
-    draw(context){
-        // Draw character
-
-        context.strokeRect(this.x - 10, this.y - 56, 60, 56)
-        if ( this.draw_hitboxes ) {
-            // hit box viruses
-            context.strokeRect(this.x + 13, this.y - 46, 20, 46)
-        }        
+    draw(context){       
     
         //draw appropriate sprite
         
@@ -659,7 +652,7 @@ class Level {
         result += ',' + this.middle_layer.to_str_eval()
         result += ',' + this.back_layer.to_str_eval()
         result += ',' + this.viruses.to_str_eval()
-        result += ',' + this.spawn.to_str_eval() + ',' + this.exit.to_str_eval() + "," + this.tile_size + ',' + ')'
+        result += ',' + this.spawn.to_str_eval() + ',' + this.exit.to_str_eval() + "," + this.tile_size + ')'
         return result
     }
         

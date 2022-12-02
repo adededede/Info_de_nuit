@@ -113,3 +113,17 @@ body {
     border: 8px solid black;
     font-size: 96px;
 }
+
+#success {
+    position: absolute;
+    margin-left: 10vw;
+    margin-top: 10vh;
+    width: 70%;
+    height: 80%;
+    z-index: 200;
+    display: none;
+    text-align: center;
+    background-color: green;
+    border: 8px solid black;
+    font-size: 96px;
+}
