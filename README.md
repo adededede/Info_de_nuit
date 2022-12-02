@@ -22,7 +22,7 @@ Notre jeu partait d'un postulat simple : se balader dans un monde, sous forme de
 Le jeu fut complètement développé en javascript, sans aucune libraire supplémentaire aux packages de bases. De plus une partie des sprites ont été dessiné par notre équipe.
 Vous trouverez ci-dessous, le visuel du menu d'accueil du jeu, en dessous de celui-ci nous avons un un exemple de niveau avec le personnage avec lequel nous pourrons intéragir.
 ![MenuJeu](https://github.com/adededede/Info_de_nuit/blob/main/images/menu_jeu.png)
-Comme vous puvez le remarquer il existe un mode éditeur pour créer votre propre niveau!
+Comme vous puvez le remarquer il existe un mode éditeur pour créer votre propre niveau! Nous l'avons cependant caché car il n'est pas utile pour ce sujet :)
 ![NiveauJeu](https://github.com/adededede/Info_de_nuit/blob/main/images/niveau_jeu.png)
 Une fois que vous croiserez un autre personnage, vous pourrez dialoguer avec lui.
 ![DialogueJeu](https://github.com/adededede/Info_de_nuit/blob/main/images/dialogue_jeu.png)
