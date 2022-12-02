@@ -6,11 +6,16 @@ En prenans connaissance du sujet nous avons réalisé que plus que de simplement
 Notre site est constitué :
 - d'un acceuil, permettant de lancer le jeu ou bien de s'informer.
 ![Acceuil](https://github.com/adededede/Info_de_nuit/blob/main/images/acceuil.png)
-- d'une [section information](https://github.com/adededede/Info_de_nuit/tree/main/images/info.png), permettant de prendre connaissance des différents aspects qui composent la santé sexuelle.
-- d'une [section témoignages](https://github.com/adededede/Info_de_nuit/tree/main/images/temoignage.png)
-- d'une [section actualités](https://github.com/adededede/Info_de_nuit/tree/main/images/actu.png), qui reste encore à implementer mais qui devrait dans le future contenir les actualités dans le domaine.
-- d'une [section contacts](https://github.com/adededede/Info_de_nuit/tree/main/images/contact.png), comprenant les contacts d'associations, organisations, sites et autres importantes à la compréhention des problématiques de la santé sexuelle.
-- d'une [section à propose](https://github.com/adededede/Info_de_nuit/tree/main/images/about.png), qui présente l'équipe de développement.
+- d'une section information, permettant de prendre connaissance des différents aspects qui composent la santé sexuelle.
+![section information](https://github.com/adededede/Info_de_nuit/tree/main/images/info.png)
+- d'une section témoignages, regroupant des récits personnels autour du sujet abordé.
+![section témoignages](https://github.com/adededede/Info_de_nuit/tree/main/images/temoignage.png)
+- d'une section actualités, qui reste encore à implementer mais qui devrait dans le future contenir les actualités dans le domaine.
+![section actualités](https://github.com/adededede/Info_de_nuit/tree/main/images/actu.png)
+- d'une section contacts, comprenant les contacts d'associations, organisations, sites et autres importantes à la compréhention des problématiques de la santé sexuelle.
+![section contacts](https://github.com/adededede/Info_de_nuit/tree/main/images/contact.png)
+- d'une section à propos, qui présente l'équipe de développement.
+![section à propos](https://github.com/adededede/Info_de_nuit/tree/main/images/about.png)
 
 ## Notre Jeu
 Notre jeu partait d'un postulat simple : se balader dans un monde, sous forme de plateforme ludique, en découvrant au fil des niveaux de nouvelles mises en situations autour de la santé sexuelle. Mais attention, il est nécessaire d'éviter les vilains virus et de résoudre les problèmes rencontrés à travers les diverses situations.
