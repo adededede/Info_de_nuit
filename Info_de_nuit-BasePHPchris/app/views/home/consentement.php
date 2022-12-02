@@ -17,9 +17,14 @@ require './app/views/layout/menu.php';
     </h5>
     <p>lorsqu’on respecte l’autre, on lui demande son avis et on en tient compte.
 
-        Donner son consentement revient à donner sa permission pour faire quelque chose. On peut consentir à vendre une propriété, à donner sa main en mariage, à avoir un rapport sexuel avec quelqu’un, etc. Il est toutefois fondamental que ce soit la personne elle-même qui donne son consentement, sans quoi l’accord ne sera pas valable.
+        Donner son consentement revient à donner sa permission pour faire quelque chose. On peut consentir à vendre<br>
+        une propriété, à donner sa main en mariage, à avoir un rapport sexuel avec quelqu’un, etc. Il est toutefois <br>
+        fondamental que ce soit la personne elle-même qui donne son consentement, sans quoi l’accord ne sera pas valable.<br>
 
-        Pour obtenir le consentement d’une personne, il faut lui laisser l’entière liberté de répondre, puis accepter cette réponse, qu’elle soit satisfaisante ou non. Dans tous les cas, l’absence de consentement clair signifie un refus. Le consentement doit être clair, libre et enthousiaste. Par exemple, une personne inconsciente, intoxiquée ou endormie ne peut pas donner son consentement à quoi que ce soit.
+        Pour obtenir le consentement d’une personne, il faut lui laisser l’entière liberté de répondre, puis accepter <br>
+        cette réponse, qu’elle soit satisfaisante ou non. Dans tous les cas, l’absence de consentement clair signifie <br>
+        un refus. Le consentement doit être clair, libre et enthousiaste. Par exemple, une personne inconsciente, <br>
+        intoxiquée ou endormie ne peut pas donner son consentement à quoi que ce soit.
 
         Cinq éléments sont importants à retenir lorsqu’il est question de consentement : </p>
     <ol>
