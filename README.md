@@ -20,8 +20,14 @@ Notre site est constitué :
 ## Notre Jeu
 Notre jeu partait d'un postulat simple : se balader dans un monde, sous forme de plateforme ludique, en découvrant au fil des niveaux de nouvelles mises en situations autour de la santé sexuelle. Mais attention, il est nécessaire d'éviter les vilains virus et de résoudre les problèmes rencontrés à travers les diverses situations.
 Le jeu fut complètement développé en javascript, sans aucune libraire supplémentaire aux packages de bases. De plus une partie des sprites ont été dessiné par notre équipe.
-Vous trouverez [ici](), le visuel du menu d'accueil du jeu, [là]() nous avons un un exemple de niveau avec le personnage avec lequel nous pourrons intéragir. Et [vous pourrez voir ici]() les effets de toucher un virus. Une fois votre barre de vie vide [vous perdez le jeu]().
-
+Vous trouverez ci-dessous, le visuel du menu d'accueil du jeu, en dessous de celui-ci nous avons un un exemple de niveau avec le personnage avec lequel nous pourrons intéragir.
+![MenuJeu](https://github.com/adededede/Info_de_nuit/blob/main/images/menu_jeu.png)
+Comme vous puvez le remarquer il existe un mode éditeur pour créer votre propre niveau!
+![NiveauJeu](https://github.com/adededede/Info_de_nuit/blob/main/images/niveau_jeu.png)
+Une fois que vous croiserez un autre personnage, vous pourrez dialoguer avec lui.
+![DialogueJeu](https://github.com/adededede/Info_de_nuit/blob/main/images/dialogue_jeu.png)
+Et vous pourrez voir ci-dessous les effets concernant le contact avec un virus. Une fois votre barre de vie vide vous perdrez le jeu.
+[A ajouter]
 ## La documentation 
 
 La documentation et les informations que vous trouverez sur le site provienne toute de source fiable et vérifié par nos soins, vous trouverez d'ailleurs sur les différentes pages des liens vers celle-ci.
