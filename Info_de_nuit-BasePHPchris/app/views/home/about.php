@@ -17,6 +17,9 @@ require './app/views/layout/menu.php';
     echo '<li>Arnaud</li>';
     echo '<li>Adélie</li>';
     echo '</ul>';
+    // ajouts du lien GitHub
+    echo '<p>Lien original du projet : </p><br>';
+    echo '<a href="https://github.com/adededede/Info_de_nuit" target=\"_blank\" >github.com/adededede/Info_de_nuit</a><br>';
 
     ?>
 
