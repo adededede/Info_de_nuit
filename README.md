@@ -29,8 +29,7 @@ Comme vous puvez le remarquer il existe un mode éditeur pour créer votre propr
 ![NiveauJeu](https://github.com/adededede/Info_de_nuit/blob/main/images/niveau_jeu.png)
 Une fois que vous croiserez un autre personnage, vous pourrez dialoguer avec lui.
 ![DialogueJeu](https://github.com/adededede/Info_de_nuit/blob/main/images/dialogue_jeu.png)
-Et vous pourrez voir ci-dessous les effets concernant le contact avec un virus. Une fois votre barre de vie vide vous perdrez le jeu.
-[A ajouter]
+Et vous pourrez voir au cours du jeu les effets concernant le contact avec un virus. En effet, une fois le virus touché vous perdez de la vie et une fois  vide vous perdrez le jeu.
 ## La documentation 
 
 La documentation et les informations que vous trouverez sur le site provienne toute de source fiable et vérifié par nos soins, vous trouverez d'ailleurs sur les différentes pages des liens vers celle-ci.
