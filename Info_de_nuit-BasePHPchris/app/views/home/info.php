@@ -1,5 +1,5 @@
 <?php
-require '../app/views/layout/menu.php';
+require './app/views/layout/menu.php';
 ?>
 <div class='view'>
     <?php
