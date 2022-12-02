@@ -7,7 +7,7 @@ Notre site est constitué :
 - d'un [acceuil](https://), permettant de lancer le jeu ou bien de s'informer.
 - d'une [section information](https://), permettant de prendre connaissance des différents aspects qui composent la santé sexuelle.
 - d'une [section témoignages](https://)
-- d'une [section actualités], qui reste encore à implementer mais qui devrait dans le future contenir les actualités dans le domaine.
+- d'une section actualités, qui reste encore à implementer mais qui devrait dans le future contenir les actualités dans le domaine.
 - d'une [section contacts](https://), comprenant les contacts d'associations, organisations, sites et autres importantes à la compréhention des problématiques de la santé sexuelle.
 - d'une [section à propose](https://), qui présente l'équipe de développement.
 
