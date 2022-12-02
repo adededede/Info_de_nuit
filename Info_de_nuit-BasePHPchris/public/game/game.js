@@ -125,7 +125,7 @@ function init(){
 
     g_ctx.return_button = document.getElementById("return_button")
 
-    g_ctx.return_button.addEventListener("mouseup", event => return_button())
+    g_ctx.return_button.addEventListener("click", () => return_button())
     
     g_ctx.game_screen = new PlatformerGameScreen()
     g_ctx.editor_screen = new PlatformerEditorScreen()
