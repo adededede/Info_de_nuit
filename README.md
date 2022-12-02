@@ -4,12 +4,12 @@ Notre mission lors de cette nuit de l'info était de développer un serious game
 En prenans connaissance du sujet nous avons réalisé que plus que de simplement parler des différentes IST et MST, nous voulions aborder un sujet qui nous semble primordiale : le consentement. Sujet qui est d'ailleurs au coeur de l'actualité, et qui paraît être peu ou pas compris. C'est pourquoi nous avons intégré à notre projet des aspect moraux en plus de ceux concernant la santé physique.
 #Notre site
 Notre site est constitué :
-- d'un [acceuil](https://github.com/adededede/Info_de_nuit/tree/main/images/acceuil), permettant de lancer le jeu ou bien de s'informer.
-- d'une [section information](https://github.com/adededede/Info_de_nuit/tree/main/images/info), permettant de prendre connaissance des différents aspects qui composent la santé sexuelle.
-- d'une [section témoignages](https://github.com/adededede/Info_de_nuit/tree/main/images/temoignage)
-- d'une [section actualités](https://github.com/adededede/Info_de_nuit/tree/main/images/actu), qui reste encore à implementer mais qui devrait dans le future contenir les actualités dans le domaine.
-- d'une [section contacts](https://github.com/adededede/Info_de_nuit/tree/main/images/contact), comprenant les contacts d'associations, organisations, sites et autres importantes à la compréhention des problématiques de la santé sexuelle.
-- d'une [section à propose](https://github.com/adededede/Info_de_nuit/tree/main/images/about), qui présente l'équipe de développement.
+- d'un [acceuil]([https://github.com/adededede/Info_de_nuit/tree/main/images/acceuil](https://github.com/adededede/Info_de_nuit/blob/main/images/acceuil.png)), permettant de lancer le jeu ou bien de s'informer.
+- d'une [section information](https://github.com/adededede/Info_de_nuit/tree/main/images/info.png), permettant de prendre connaissance des différents aspects qui composent la santé sexuelle.
+- d'une [section témoignages](https://github.com/adededede/Info_de_nuit/tree/main/images/temoignage.png)
+- d'une [section actualités](https://github.com/adededede/Info_de_nuit/tree/main/images/actu.png), qui reste encore à implementer mais qui devrait dans le future contenir les actualités dans le domaine.
+- d'une [section contacts](https://github.com/adededede/Info_de_nuit/tree/main/images/contact.png), comprenant les contacts d'associations, organisations, sites et autres importantes à la compréhention des problématiques de la santé sexuelle.
+- d'une [section à propose](https://github.com/adededede/Info_de_nuit/tree/main/images/about.png), qui présente l'équipe de développement.
 
 ## Notre Jeu
 Notre jeu partait d'un postulat simple : se balader dans un monde, sous forme de plateforme ludique, en découvrant au fil des niveaux de nouvelles mises en situations autour de la santé sexuelle. Mais attention, il est nécessaire d'éviter les vilains virus et de résoudre les problèmes rencontrés à travers les diverses situations.
