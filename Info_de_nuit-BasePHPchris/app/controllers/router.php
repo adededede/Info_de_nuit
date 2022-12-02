@@ -8,6 +8,13 @@ class Router
         if (!empty($_GET['route'])) {
             // on détermine avec quelle méthode de quel contrôleur on veut travailler
             switch ($_GET['route']) {
+                case 'consentement':
+                    require './app/views/home/consentement.php';
+                    break;
+
+                case 'malsain':
+                    require './app/views/home/malsain.php';
+                    break;
 
                 case 'info':
                     require './app/views/home/info.php';
