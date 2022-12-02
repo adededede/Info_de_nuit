@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML5 DemoGame</title>
+    <meta name="description" content="A basic HTML5 game">
+    <meta name="author" content="Chris Verschelden">
+    <script type="module" src="game.js"></script>
+    <link rel="stylesheet" href="./game.css">
+</head>
+<body style="background-color: black;">
+    <div id="return_button" style="position: absolute; margin-top: 10px; ; margin-left: 810px; z-index: 2; background-color: white; clip-path: circle(17px); display: none;">
+        <img src="./assets/Back_Arrow.png" alt="return button" height="40" width="40" style="justify-content: center; align-items: center;">
+    </div>
+
+    <div id="health_bar">
+        <div id="health_bar_inside">
+            santé
+        </div>
+    </div>
+
+    <div id="chat_box">
+        <p id="chat">
+            
+        </p>
+    </div>
+ 
+    <button id="button_next"> CONTINUER </button>
+
+    <div id="popup_question">
+        <p id="question"> la bonne question des famille </p>
+        <div id="container_buttons">
+            <button id="button1"> réponse 1 </button>
+            <button id="button2"> réponse 2 </button> 
+        </div>
+    </div>
+
+    <canvas id="canvas_foreground" width="800" height="800" style="position: absolute; margin-top: 10px; ; margin-left: 10px; z-index: 2;">
+        Your browser does not support the HTML5 canvas tag.
+    </canvas>
+    <canvas id="canvas_background" width="800" height="800" style="background-color: white; position: absolute; margin-top: 10px; ; margin-left: 10px; z-index: 1;">
+        Your browser does not support the HTML5 canvas tag.
+    </canvas>
+
+    <div id="tools_div">
+        <canvas id="canvas_tools" width="800" height="400" style="background-color: lightgrey; position: absolute; z-index: 10;">
+            Your browser does not support the HTML5 canvas tag.
+        </canvas>
+        <canvas id="canvas_tools_overlay" width="800" height="400" style="position: absolute; z-index: 20;">
+            Your browser does not support the HTML5 canvas tag.
+        </canvas>
+    </div>
+
+    <span id="fpsindicator" style="position: absolute; color: yellow; margin-top: -10px; margin-left: -10px; z-index: 4;"></span>
+</body>
+</html>

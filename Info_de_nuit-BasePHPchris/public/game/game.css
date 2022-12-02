@@ -1,0 +1,102 @@
+body {
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+#tools_div {
+    position: absolute;
+    margin-top: 820px;
+    margin-left: 10px;
+    transition: margin .2s ease-in-out;
+}
+
+#tools_div:hover {
+    margin-top: 630px;
+    transition: margin .2s ease-in-out;
+}
+
+#health_bar {
+    position: absolute;
+    text-align: center;
+    text-justify: auto;
+    Margin-top: 10px; ; 
+    margin-left: 820px;
+    width: 300px;
+    height: 40px;
+    background-color: white;
+    border: 3px solid white;
+} 
+#health_bar_inside {
+    text-align: center;
+    text-justify: auto;
+    width : 0px;
+    height: 40px;
+    background-color: red;
+}
+
+#chat_box {
+    position: absolute;
+    overflow-y: scroll;
+    Margin-top: 60px; ; 
+    margin-left: 820px;
+    width: 300px;
+    height: 700px;
+    background-color: white;
+    border: 3px solid palevioletred;
+}
+
+#chat {
+    width: 100%;
+    height: 100%;
+    text-align: left;
+}
+
+#button_next {
+    position: absolute;
+    Margin-top: 770px;
+    margin-left: 820px;
+    width: 305px;
+    height: 40px;
+    display: none;
+}
+
+#popup_question {
+    position: absolute;
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30vh;
+    margin-left: 35vw;
+    border: 5px solid black;
+    border-radius: 25px;
+    width: 20%;
+    height: 30%;
+    background-color: white;
+    z-index: 100;
+}
+
+#container_buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    height: 50%;
+}
+
+#button1 {
+    width: 48%;
+    height: 40%;
+}
+
+#button2 {
+    width: 48%;
+    height: 40%;
+}
+
+#question {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
