@@ -10,32 +10,32 @@ class Router
             switch ($_GET['route']) {
 
                 case 'info':
-                    require '../app/views/home/info.php';
+                    require './app/views/home/info.php';
                     break;
 
                 case 'news':
-                    require '../app/views/home/news.php';
+                    require './app/views/home/news.php';
                     break;
 
                 case 'temoin':
-                    require '../app/views/home/temoi.php';
+                    require './app/views/home/temoi.php';
                     break;
 
                 case 'contact':
-                    require '../app/views/home/contac.php';
+                    require './app/views/home/contac.php';
                     break;
 
                 case 'about':
-                    require '../app/views/home/about.php';
+                    require './app/views/home/about.php';
                     break;
 
                 default:                     // pour toutes les autres valeurs, on affiche la page d'accueil
-                    require '../app/views/home/home.php';
+                    require './app/views/home/home.php';
                     break;
             }
             // aucune paramètre 'route' : on affiche l'accueil'
         } else {
-            require '../app/views/home/home.php';
+            require './app/views/home/home.php';
         }
     }
 }

@@ -11,6 +11,6 @@ class playerController {
 
     public function showPlayersTable(){
         $playersList = $this->modelPlayer->getPlayers();
-        require '../app/views/players/playersTable.php' ;
+        require './app/views/players/playersTable.php' ;
     }
 }
