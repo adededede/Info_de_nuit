@@ -5,9 +5,10 @@ require '../app/views/layout/menu.php';
 
     <?php
 
-    echo '<center>';
-    echo '<h1>Voici les témoignages</h1>';
-    echo '</center>';
+    //echo '<center>';
+    //echo '<h1>Voici les témoignages</h1>';
+    //echo '</center>';
+    require 'temoignages.html'
     ?>
 
 </div>

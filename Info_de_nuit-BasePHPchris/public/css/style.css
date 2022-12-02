@@ -86,3 +86,39 @@ body {
     height: 100%;
     width: 100%;
 }
+
+h3 {
+    /*text-align: center;*/
+    position:relative; 
+    left:0px; 
+    top: 0px;
+    color: rgb(66, 74, 146);
+  }
+
+p {
+    left: 600px;
+    top: -200px;
+    color:black;
+  }
+
+h4 { 
+    position:relative; 
+    left:160px; 
+    top:200px;
+    color: rgb(28, 27, 56);
+    }
+
+a { 
+    position:relative; 
+    left:0px; 
+    top: 0px;
+    color:rgb(26, 26, 43);
+}
+
+h2{
+    position: relative;
+    font-size: 45px;
+    left:150px;
+    top:100px;
+    color:rgb(71, 57, 122);
+}
