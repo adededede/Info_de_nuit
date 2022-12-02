@@ -2,6 +2,9 @@
 ## Le sujet
 Notre mission lors de cette nuit de l'info était de développer un serious game en ligne ayant pour but de sensibiliser les jeunes adultes, comme les les plus âgés, aux probléamtiques liées à la santé sexuelles.
 En prenans connaissance du sujet nous avons réalisé que plus que de simplement parler des différentes IST et MST, nous voulions aborder un sujet qui nous semble primordiale : le consentement. Sujet qui est d'ailleurs au coeur de l'actualité, et qui paraît être peu ou pas compris. C'est pourquoi nous avons intégré à notre projet des aspect moraux en plus de ceux concernant la santé physique.
+
+Petite précision qui a son importance, le visuel du site a été fait pour correspondre au défi MOVAI CODE :INTERFASSE
+
 #Notre site
 Notre site est constitué :
 - d'un acceuil, permettant de lancer le jeu ou bien de s'informer.
